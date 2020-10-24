@@ -1,0 +1,43 @@
+{
+  "From": "0.1.1",
+  "To": "0.1.2",
+  "Hash": "Pn83Xk/U306zoTT27hd4RwZhYiE",
+  "TotalSize": 0,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-24T20:13:38.6501076Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-24T20:13:38.8127081Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2020-10-24T20:13:37.081445Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-24T20:13:39.0827244Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-24T20:14:17.8499899Z",
+      "Size": 0
+    }
+  ]
+}
