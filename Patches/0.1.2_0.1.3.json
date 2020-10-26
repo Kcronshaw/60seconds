@@ -1,0 +1,225 @@
+{
+  "From": "0.1.2",
+  "To": "0.1.3",
+  "Hash": "xeuBZRYWHVfWicCdn++AccVqkJ8",
+  "TotalSize": 0,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/app.info",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:25.8810839Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.0035938Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.1503209Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:20.7468065Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.0210722Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level2",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.1570023Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level3",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.2940694Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level4",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.4179938Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level5",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.5451365Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level6",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.6711432Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level7",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.7978285Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/level8",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:21.9224744Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.3781059Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/resources.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.3711245Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.5234349Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/sharedassets0.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.5204425Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.9440903Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets2.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.9640101Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets3.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.9799668Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets4.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:23.9964861Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets5.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:24.012416Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets6.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:24.0293706Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets7.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:24.0453282Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "60seconds_Data/sharedassets8.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:24.0622826Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:19.7100218Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "60seconds_Data/Resources/unity_builtin_extra",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:24.2313906Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T19:39:43.0964757Z",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "60seconds_Data/Managed/Unity.ProBuilder.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "60seconds_Data/Managed/Unity.ProBuilder.KdTree.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "60seconds_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "60seconds_Data/Managed/Unity.ProBuilder.Stl.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    }
+  ]
+}
